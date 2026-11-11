@@ -1,0 +1,8 @@
+ultralytics
+streamlit
+pillow
+numpy
+pandas
+streamlit-option-menu
+plotly
+streamlit-extras
